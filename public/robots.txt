@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard
+Disallow: /profile
+Disallow: /interests
+Disallow: /wishlist
+Disallow: /chat/
+Disallow: /admin
+Disallow: /listings/
+
+Sitemap: https://roomlyapp.lovable.app/sitemap.xml

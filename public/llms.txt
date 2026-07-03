@@ -1,0 +1,12 @@
+# Roomly
+
+> Roomly is a rent and flatmate finder that uses AI-powered compatibility scoring, real-time chat, and verified profiles to help tenants find rooms and owners find the right flatmates.
+
+## Pages
+
+- [Home](/): What Roomly does and how AI compatibility matching works.
+- [Sign in or create an account](/auth): Tenant and owner sign-up.
+
+## Guides
+
+- [How to find a roommate in a new city](/blog/how-to-find-roommates-in-new-city): A practical guide to finding compatible flatmates when you're moving somewhere new.
